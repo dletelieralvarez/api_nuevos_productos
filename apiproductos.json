@@ -1,26 +1,26 @@
 [
-      {
-        id:1,
-        nombre: 'JUEGO DE MESA HASBRO GAMING PULGAS LOCAS',
-        imagen: 'assets/imgKids/gaming-pulgas-locas/01.jpg',
-        precio: 21.990,   
-        sku: 'G9272',
-        stock: 10
-      },
-      {
-        id:2,
-        nombre: 'PELUCHE INTERACTIVO FURBY MORADO',
-        imagen: 'assets/imgKids/peluche-interactivo-furby-morado/01.jpg',
-        precio: 99.990,
-        sku: 'F9181',
-        stock: 100, 
-      },
-      {
-        id:3,
-        nombre: 'FIGURA DE ACCIÓN Y MÁSCARA TRANSFORMERS ONE BUMBLEBEE B-127',
-        imagen: 'assets/imgKids/mascara-transformes-one-bumblebee-b127/01.jpg',
-        precio: 47.990,   
-        sku: 'N6185',
-        stock: 50
-      }
-    ];
+  {
+    "id": 1,
+    "nombre": "JUEGO DE MESA HASBRO GAMING PULGAS LOCAS",
+    "imagen": "assets/imgKids/gaming-pulgas-locas/01.jpg",
+    "precio": 21990,
+    "sku": "G9272",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "PELUCHE INTERACTIVO FURBY MORADO",
+    "imagen": "assets/imgKids/peluche-interactivo-furby-morado/01.jpg",
+    "precio": 99990,
+    "sku": "F9181",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "nombre": "FIGURA DE ACCIÓN Y MÁSCARA TRANSFORMERS ONE BUMBLEBEE B-127",
+    "imagen": "assets/imgKids/mascara-transformes-one-bumblebee-b127/01.jpg",
+    "precio": 47990,
+    "sku": "N6185",
+    "stock": 50
+  }
+]
